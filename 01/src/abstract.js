@@ -1,2 +1,16 @@
 const axiosInstance = require('./api')
-const qs = require('qs')
+
+const getCompany = async (dominioEmpresa) => {
+  const { data } = await axiosInstance.get(
+    '',
+    {
+      params: {
+        domain: dominioEmpresa
+      }
+    }
+  )
+
+  return data
+}
+
+module.exports = getCompany
