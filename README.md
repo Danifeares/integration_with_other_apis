@@ -36,6 +36,10 @@ O objeto retornado pela API externa será o mesmo objeto retornado pela nossa AP
 - Apenas os resultados cujo nome da empresa (propriedade `name` do objeto retornado) estejam preenchidos corretamente (não nulos ou indefinidos) serão armazenados no arquivo `empresas.json`.
 - Independentemente de como os dados são retornados pela API externa, nossa API sempre retornará o mesmo objeto na resposta.
 
+## Os testes apresentados logo abaixo foram realizados por meio da plataforma Insomnia, mas é possível rodar por meio de outras plataformas ou do seu navegador também.
+![Insomnia-2023-09-14-03-19-40](https://github.com/Danifeares/integration_with_other_apis/assets/117787402/c8a17dfb-939a-497a-a357-ce8438f9fc3f)
+
+
 ## Tecnologias Utilizadas
 
 - JavaScript
