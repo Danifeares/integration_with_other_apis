@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Facebook",
+    "domain": "facebook.com",
+    "year_founded": 2004,
+    "industry": "Internet",
+    "employees_count": 77517,
+    "locality": "Menlo Park",
+    "country": "United States",
+    "linkedin_url": "linkedin.com/company/facebook"
+  },
+  {
+    "name": "Instagram",
+    "domain": "instagram.com",
+    "year_founded": 2010,
+    "industry": "Computer software",
+    "employees_count": 15385,
+    "locality": "San Francisco",
+    "country": "United States",
+    "linkedin_url": "linkedin.com/company/instagram"
+  },
+  {
+    "name": "360° Consulting",
+    "domain": "lala.com",
+    "year_founded": 2016,
+    "industry": "Management consulting",
+    "employees_count": 5,
+    "locality": "Bordeaux",
+    "country": "France",
+    "linkedin_url": "linkedin.com/company/360°-consulting"
+  },
+  {
+    "name": "Airbnb",
+    "domain": "airbnb.com",
+    "year_founded": 2008,
+    "industry": "Internet",
+    "employees_count": 14604,
+    "locality": "San Francisco",
+    "country": "United States",
+    "linkedin_url": "linkedin.com/company/airbnb"
+  }
+]
